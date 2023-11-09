@@ -1,0 +1,1 @@
+Projeto das redes sociais feito com HTML e CSS puro.
